@@ -95,3 +95,4 @@ Tổng đài trả lời khám bệnh nam khoa trực tuyến của phòng khám
 		:target: http://bit.ly/2UAdCX5
 
 Để được trả lời bệnh chuyên khoa nam hoàn toàn miễn phí, chính xác, nam giới vui lòng gọi điện số Hotline: hay nhấp vào bảng tư vấn trực tuyến bên sau để được hỗ trợ. Đa khoa Hưng Thịnh tư vẫn trực tuyến 24/24, sẵn sàng giải thích vấn đề của bạn mỗi khi bạn cần phải. https://bacsionline.org/bac-si-nam-khoa-tu-van-nam-khoa-truc-tuyen-mien-phi.html
+https://phongkham.webflow.io/blog/danh-gia-phong-kham-da-khoa-hung-thinh-380-xa-dan-ha-noi
